@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Taco truck ordering scene</title>
+  <desc id="desc">A customer orders tacos from a friendly vendor at a bright taco truck.</desc>
+  <rect width="960" height="540" fill="#f5e6c9"/>
+  <circle cx="810" cy="94" r="52" fill="#e6a756"/>
+  <path d="M0 400h960v140H0z" fill="#d8b87e"/>
+  <rect x="126" y="126" width="575" height="268" rx="24" fill="#1d3d37"/>
+  <rect x="154" y="158" width="332" height="145" rx="14" fill="#f5bf4f"/>
+  <text x="184" y="225" fill="#17332f" font-family="Georgia, serif" font-size="58" font-weight="bold">TACOS</text>
+  <text x="184" y="267" fill="#17332f" font-family="Arial, sans-serif" font-size="22">PASTOR · ASADA · BIRRIA</text>
+  <rect x="522" y="172" width="142" height="110" rx="8" fill="#fff8e9"/>
+  <path d="M546 213h94M546 238h75M546 263h84" stroke="#c77e4f" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="585" cy="330" r="38" fill="#d88954"/><circle cx="650" cy="330" r="38" fill="#d88954"/>
+  <circle cx="754" cy="256" r="45" fill="#c97961"/>
+  <path d="M715 330c12-49 77-49 92 0v72h-92z" fill="#e6a756"/>
+  <path d="M735 280c13 12 31 12 43 0" fill="none" stroke="#17332f" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="293" cy="369" r="42" fill="#d88954"/>
+  <path d="M247 456c10-63 82-63 94 0v76h-94z" fill="#31564e"/>
+  <path d="M276 390c11 10 26 10 36 0" fill="none" stroke="#17332f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M350 422l130-24 9 39-130 24z" fill="#fff8e9" stroke="#c7a36d" stroke-width="4"/>
+  <text x="370" y="432" fill="#17332f" font-family="Arial, sans-serif" font-size="18">¿Qué recomienda?</text>
+</svg>

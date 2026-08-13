@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Barber conversation scene</title>
+  <desc id="desc">A customer describes a haircut to a barber in a warm barbershop.</desc>
+  <rect width="960" height="540" fill="#e9ddc8"/>
+  <rect x="70" y="60" width="300" height="226" rx="18" fill="#f9f3e7" stroke="#31564e" stroke-width="14"/>
+  <rect x="102" y="92" width="236" height="162" rx="8" fill="#adcfc8"/>
+  <path d="M610 72h275v275H610z" fill="#31564e"/>
+  <path d="M652 116h190M652 156h150M652 196h174" stroke="#f4d48b" stroke-width="13" stroke-linecap="round"/>
+  <text x="654" y="255" fill="#f4d48b" font-family="Georgia, serif" font-size="38">BARBERÍA</text>
+  <path d="M0 432h960v108H0z" fill="#b88c68"/>
+  <circle cx="425" cy="225" r="57" fill="#d88954"/>
+  <path d="M344 382c10-92 150-92 162 0v68H344z" fill="#eff1e9"/>
+  <path d="M380 260c20 20 58 20 81 0" fill="none" stroke="#17332f" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="673" cy="234" r="49" fill="#c97961"/>
+  <path d="M604 385c11-83 130-83 142 0v66H604z" fill="#17332f"/>
+  <path d="M635 267c18 17 42 17 61 0" fill="none" stroke="#17332f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M576 320l-65 44M570 352l-66-42" stroke="#c7a36d" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="489" cy="374" r="8" fill="#c7a36d"/><circle cx="490" cy="309" r="8" fill="#c7a36d"/>
+  <path d="M390 420h83" stroke="#d88954" stroke-width="10" stroke-linecap="round"/>
+</svg>
